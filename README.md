@@ -1,4 +1,4 @@
-# Awesome Javascript Conferences
+# Awesome JavaScript Conferences
 
 ## 2017
 
