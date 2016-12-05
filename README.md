@@ -10,12 +10,14 @@
 | [Budapest NodeConf 2017](https://nodeconf.risingstack.com/) | Jan 19-20, 2017 | Budapest, Hungary ||
 | [Agent Conference](http://agent.sh/) | Jan 20-21, 2017 | Dornbirn, Austria ||
 | [Script'17](https://scriptconf.org/) | Jan 27, 2017 | Linz, Austria ||
+| [BuzzJS](http://buzzjs.com/) | Jan 27, 2017 | New York City, United States ||
 
 ### February
 
 
 | Name  | Date | Location | CFP Deadline |
 | ------------- | ------------- | ------------- | ------------- |
+| [JavaScript Conference 2017](http://www.developerweek.com/javascript-conference/) | Feb 13-15, 2017 | San Francisco, United States ||
 | [The Rolling Scopes](https://2017.conf.rollingscopes.com/) | Feb 18-19, 2017 | Minsk, Belarus ||
 | [ForwardJS](https://forwardjs.com/) | Feb 25-Mar 5, 2017 | San Francisco, USA ||
 
@@ -60,6 +62,11 @@
 
 
 ### July
+
+
+| Name  | Date | Location | CFP Deadline |
+| ------------- | ------------- | ------------- | ------------- |
+| [FullStack London](https://skillsmatter.com/conferences/8264-fullstack-2017-the-conference-on-javascript-node-and-internet-of-things) | Jul 12-14, 2017 | London, United Kingdom ||
 
 ### August
 
