@@ -11,6 +11,7 @@
 | [Agent Conference](http://agent.sh/) | Jan 20-21, 2017 | Dornbirn, Austria ||
 | [Script'17](https://scriptconf.org/) | Jan 27, 2017 | Linz, Austria ||
 | [BuzzJS](http://buzzjs.com/) | Jan 27, 2017 | New York City, United States ||
+| [So Ember Conference](http://soember.com/) | Jan 27, 2017 | San Diego, CA, United States ||
 
 ### February
 
