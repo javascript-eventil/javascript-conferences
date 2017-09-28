@@ -92,7 +92,7 @@
 | Name  | Date | Location | CFP Deadline |
 | ------------- | ------------- | ------------- | ------------- |
 | [Agile2017](https://www.agilealliance.org/agile2017/) | Aug 7-11, 2017 | Orlando, USA ||
-| [360|iDev](http://360idev.com/) | Aug 13-16, 2017 | Denver CO, USA ||
+| [360 iDev](http://360idev.com/) | Aug 13-16, 2017 | Denver CO, USA ||
 | [Frontend Conference Zurich](https://frontendconf.ch/) | Aug 31-Sep 1, 2017 | Zurich, Switzerland ||
 
 ### September
@@ -109,7 +109,7 @@
 | [BASTA! Jubiläumskonferenz 2017](https://basta.net/) | Sep 25-29, 2017 | Mainz, Germany ||
 | [APIDays Zurich](http://www.apidays.io/events/zurich-2017) | Sep 26-27, 2017 | Zurich, Switzerland ||
 | [React Alicante](http://reactalicante.es/) | Sep 28-30, 2017 | Alicante, Spain ||
-| [HamOnt JS] | September 30, 2017 | Ontario, Canada ||
+| HamOnt JS | September 30, 2017 | Ontario, Canada ||
 | [Frontend Dev Conf](https://fdconf.by/en/) | Sep 30, 2017 | Minsk, Belarus ||
 
 ### October
@@ -122,8 +122,7 @@
 | [ReactJS Day](http://2017.reactjsday.it/) | Oct 6, 2017 | Verona, Italy ||
 | [React Conf Brazil](http://reactconfbr.com.br/) | Oct 7, 2017 | São Paulo, Brazil ||
 | [NCDevCon](http://www.ncdevcon.com/) | Oct 7-8, 2017 | Raleigh, NC United States ||
-| [JavaScript Days](https://javascript-days.de/) | Oct 9-11, 2017 | Berlin
-in Germany ||
+| [JavaScript Days](https://javascript-days.de/) | Oct 9-11, 2017 | Berlin, Germany ||
 | [Angular Mix](https://angularmix.com) | Oct 10-12, 2017 | Orlando, FL United States ||
 | [Mirror Conf](http://www.mirrorconf.com/) | Oct 12-13, 2017 | Braga, Portugal ||
 | [EmberFest](https://emberfest.eu/) | Oct 12-13, 2017 | Berlin, Germany ||
