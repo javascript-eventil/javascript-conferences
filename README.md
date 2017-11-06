@@ -220,6 +220,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 | [ForwardJS](https://forwardjs.com/ottawa) | Apr 3-6, 2018 |  Ottawa, Canada | [CFP Open](https://docs.google.com/forms/d/e/1FAIpQLScUxLsLva4kXTCDtcUgIxqQJnedFcgAsf2kpwI7dB8SV5kwhw/viewform)|
 | [Frontend NE](https://2018.frontendne.co.uk/) | Apr 5, 2018 |  Newcastle-Upon-Tyne, UK |[Dec 7, 2017](https://2018.frontendne.co.uk/call-for-speakers.html)|
+| [Universal JS Day](http://2018.universaljsday.com/) | Apr 13, 2018 |  Ferrara, Italy |[March 11, 2018](https://docs.google.com/forms/d/e/1FAIpQLSeYvQOwVwAn9_nJleql2Vxfy1xjmcpymcs6jfWk_TVPoiypIA/viewform)|
 | [App Builders Switzerland](https://www.appbuilders.ch/) | Apr 16-17, 2018 |  Lugano, Switzerland ||
 | [ng-conf](https://www.ng-conf.org/) | Apr 18-20, 2018 |  Salt Lake City, UT USA ||
 | [UphillConf](http://uphillconf.com/) | Apr 26, 2018 |  Bern, Switzerland ||
