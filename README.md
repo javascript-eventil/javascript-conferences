@@ -227,17 +227,25 @@
 | [AtlSecCon](https://atlseccon.com/) | Apr 26-27, 2018 |  Halifax, Canada ||
 
 ### June
+
 | Name  | Date | Location | CFP Deadline |
 | ------------- | ------------- | ------------- | ------------- |
 | [ConvergeSE](http://convergese.com/) | Jun 13-15, 2018 |  Columbia, SC USA ||
 
 ### July
+
 | Name  | Date | Location | CFP Deadline |
 | ------------- | ------------- | ------------- | ------------- |
 | [FullStack](https://skillsmatter.com/conferences/9815-fullstack-2018-the-conference-on-javascript-node-and-internet-of-things) | Jul 11-13, 2018 |  London, UK ||
 
 ### September
+
 | Name  | Date | Location | CFP Deadline |
 | ------------- | ------------- | ------------- | ------------- |
-| [JSFoo](https://jsfoo.in/) | Sep 15, 2018 |  Bangalore, India |[CFP Open](https://jsfoo.talkfunnel.com/2018/)|
+| [JSFoo](https://jsfoo.in/) | Sep 15, 2018 |  Bangalore, India |[CFP Open](https://jsfoo.talkfunnel.com/2018/) |
 
+### October
+
+| Name  | Date | Location | CFP Deadline |
+| ------------- | ------------- | ------------- | ------------- |
+| [ConFrontJS](https://confrontjs.com/) | Oct 29, 2018 |  Warsaw, Poland |[Oct 10](https://eventil.com/events/confrontjs-2018/cfp) |
